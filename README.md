@@ -28,6 +28,7 @@ Install dependencies via pip if you don’t have them:
 ```bash
 pip install opencv-python numpy
 
+```
 ## Sample Detection Output
 
 Here is an example of the object detection in action:
